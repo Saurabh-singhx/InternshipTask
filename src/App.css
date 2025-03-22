@@ -1,0 +1,116 @@
+@media screen and (max-width: 1054px) {
+    .NavBar{
+        display:none
+    }
+    .NavButtons{
+        width: 100%;
+        margin-right: 0px;
+    }
+    .text1{
+        font-size: xx-large;
+    }
+    .secondmain{
+        padding: 20px;
+    }
+    .menu{
+        display: block;
+    }
+    
+}
+
+
+@media screen and (max-width:997px){
+
+    .div1htext{
+        font-size: xx-large;
+    }
+    .div2htext{
+        font-size: xx-large;
+    }
+    .div3htext{
+        font-size: xx-large;
+    }
+    .div4htext{
+        font-size: xx-large;
+    }
+    .div1text{
+        font-size:larger;
+    }
+    .div2text{
+        font-size:medium;
+    }
+    .div3text{
+        font-size:medium;
+    }
+    .div4text{
+        font-size:medium;
+    }
+
+}
+@media screen and (max-width:723px){
+
+    .Nav{
+        padding-left: 20px;
+        padding-right: 20px;
+        height: 40px;
+        font-size: small;
+    }
+    .Btn{
+        height: 80%;
+        width: 60px;
+        margin-top: 5px;
+        padding: 0px;
+    }
+    .Btn2{
+        height: 80%;
+        width: 100px;
+        margin-top: 5px;
+        padding: 0px;
+    }
+    .logoimg{
+        height: 50px;
+        width: 160px;
+    }
+    .text1{
+        font-size: x-large;
+    }
+    .text2{
+        font-size:smaller;
+    }
+    .text3{
+        font-size: small;
+    }
+    .div1htext{
+        font-size: larger;
+    }
+    .div2htext{
+        font-size: larger;
+    }
+    .div3htext{
+        font-size: larger;
+    }
+    .div4htext{
+        font-size: larger;
+    }
+    .div1text{
+        font-size:smaller;
+    }
+    .div2text{
+        font-size:smaller;
+    }
+    .div3text{
+        font-size:smaller;
+    }
+    .div4text{
+        font-size:smaller;
+    }
+    .div1{
+        width: 250px;
+    }
+    .div2{
+        width: 250px;
+    }
+    .div4{
+        width: 250px;
+    }
+}
